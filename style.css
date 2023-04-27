@@ -1,0 +1,14 @@
+hr{
+  border-style: dotted;
+  border-width: 10;
+  width: 20;
+}
+body{
+  background-color: powderblue;
+}
+h3{
+  color: #008080;
+}
+h4{
+  color: red;
+}
